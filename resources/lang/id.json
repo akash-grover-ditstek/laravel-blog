@@ -1,0 +1,35 @@
+{
+    "Page has been deleted" : "Halaman sudah di hapus",
+    "Menu has been deleted" : "Menu sudah di hapus",
+    "Delete Page" : "Hapus Halaman",
+    "Are you sure?" : "Anda yakin?",
+    "Show website" : "Lihat website",
+    
+    "Back" : "Kembali",
+    "Submit" : "Kirim",
+    "Logout" : "Keluar",
+    "Delete" : "Hapus",
+    "Yes" : "Ya",
+    "Cancel" : "Batal",
+
+    "Create Page" : "Buat Halaman",
+    "Edit Page" : "Edit Halaman",
+    "Pages" : "Halaman",
+
+    "Title" : "Judul",
+    "title page" : "judul halaman",
+
+    "Create Post" : "Buat Post",
+
+    "Create Menu" : "Buat menu",
+    
+    "Slug" : "Slug",
+    "slug-page" : "slug-halaman",
+
+    "Content" : "Konten",
+    
+    "Parent" : "Parent",
+    "Name" : "Nama",
+    "Url" : "Url",
+    "Order" : "Urutan"
+}

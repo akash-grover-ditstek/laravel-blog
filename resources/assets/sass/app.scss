@@ -1,0 +1,33 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//clean css
+@import "./clean/variables.scss";
+@import "./clean/mixins.scss";
+@import "./clean/global.scss";
+@import "./clean/navbar.scss";
+@import "./clean/masthead.scss";
+@import "./clean/post.scss";
+@import "./clean/contact.scss";
+@import "./clean/footer.scss";
+@import "./clean/bootstrap-overrides.scss";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.invalid-feedback {
+  display: inline-block;
+  width: 100%;
+  margin-top: .25rem;
+  font-size: 80%;
+  color: #dc3545;
+}
