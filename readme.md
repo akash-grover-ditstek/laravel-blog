@@ -7,6 +7,33 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## About Project
+
+This is a simple blog which allow you to add blog post, pages, menu to your site just a simple blog site like wordpress.
+just to show case my skills and fun.. :)
+
+
+## Install Instructions
+
+    git clone https://github.com/akash-grover-ditstek/laravel-blog.git blog
+
+    cd blog
+
+    composer install
+
+    php artisan key:generate
+
+    php artisan migrate
+
+    php aritsan db:seed
+
+    php artisan serve
+
+    Go to http://localhost:8000/admin/login
+    Email : akash.grover@ditstek.com
+    password : secret
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
